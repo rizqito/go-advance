@@ -1,9 +1,12 @@
-module github.com/fairyhunter13/materi-rakamin
+// module github.com/fairyhunter13/materi-rakamin //* module via url
+
+module go-advance //* module via local
 
 go 1.16
 
 require (
 	github.com/alexsasharegan/dotenv v0.0.0-20171113213728-090a4d1b5d42
+	github.com/fairyhunter13/materi-rakamin v0.0.0-20210804075111-d8081c237c6b
 	github.com/fairyhunter13/reflecthelper/v4 v4.5.0
 	github.com/go-redis/redis/v8 v8.11.0
 	github.com/gofiber/fiber/v2 v2.15.0

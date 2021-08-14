@@ -1,6 +1,7 @@
 package main
 
-import "github.com/fairyhunter13/materi-rakamin/oop/designpattern" //* import via url
+// import "github.com/fairyhunter13/materi-rakamin/oop/designpattern" //* import via url
+import "go-advance/oop/designpattern" //* import via local
 
 func main() {
 	// OOP Principle
